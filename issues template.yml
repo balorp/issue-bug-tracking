@@ -18,14 +18,14 @@ body:
     id: desc
     attributes:
       label: Description
-      description: Describe the issue you are facing.
+      description: Describe the issue you are having.
     validations:
       required: true
   - type: textarea
     id: expected
     attributes:
       label: Expected behaviour
-      description: Describe the issue you are facing.
+      description: Describe the issue you are having.
     validations:
       required: true
   - type: textarea
